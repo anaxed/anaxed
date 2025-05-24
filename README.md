@@ -2,7 +2,7 @@
 - 👀 I’m interested in pyhton htlm c/c++
 - 🌱 I’m currently learning html pyhton
 - 💞️ I’m looking to collaborate on html
-- 📫 How to reach me discord nick kapanxed
+- 📫 How to reach me discord nick kapanaxed
 
 <!---
 anaxed/anaxed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
