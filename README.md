@@ -113,7 +113,7 @@
 </head>
 <body>
   <header>
-    <h1>Muhammetin portföyü</h1>
+    <h1>anaxedin portföyü</h1>
     <nav>
       <a href="#about">Hakkımda</a>
       <a href="#projects">Projeler</a>
@@ -121,7 +121,7 @@
   </header>
 
   <section class="hero">
-    <h2>Merhaba, ben Muhammet ben bir Yazılım Geliştiricisiyim</h2>
+    <h2>Merhaba, ben anaxed ben bir Yazılım Geliştiricisiyim</h2>
     <p>Web geliştirme konusunda tutkuluyum .</p>
   </section>
 
